@@ -1,11 +1,11 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import scipy
-import statsmodels.api as sm
+#import scipy
+#import statsmodels.api as sm
 import matplotlib.pyplot as plt
-import sklearn
-import seaborn as sns
+#import sklearn
+#import seaborn as sns
 
 st.title('Streamlit test')
 data = pd.read_csv ('1.01.+Simple+linear+regression.csv')
